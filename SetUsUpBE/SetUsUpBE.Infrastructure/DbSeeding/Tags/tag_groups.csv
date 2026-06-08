@@ -1,0 +1,57 @@
+id,"name",type
+ENRGY,"Energy level",MX
+SCHHF,"High freqs (Treble)",OX
+SCHMF,"Mid freqs",OX
+SCHLF,"Low freqs (Bass)",OM
+SCHLD,"Loudness",MX
+SCHMR,"Mastering",OM
+SCHAR,"Arrangement",OM
+STRIN,"Intro",MX
+STROU,"Outro",MX
+STRSB,"Substance",MX
+SFXBL,"Bassline",OM
+SFXFX,"Effects",OM
+SCOKB,"Keyboard instruments",OM
+SCOBL,"Blown instruments",OM
+SCOST,"Strings",OM
+SCOPC,"Percussion",MX
+SCOSM,"Shake and misc instruments",OM
+SVOPR,"Presence of vocals",MXP
+SVOMC,"Multiplicity",OXC
+SVOFX,"Vocal effects",OMC
+SVOPC,"Pitch",OMC
+SVOPF,"Performance",OMC
+SVOEX,"Expression",OMC
+SVOWC,"Word choice",OXC
+SVIMC,"Musical cultures",OM
+SVIIM,"Immersion",MX
+SVIEM,"Emotionality",MX
+SVIIP,"Impression",OX
+THMSP,"Society & politics",OM
+THMPF,"Power, fame & wealth",OM
+THMPS,"Passion & self-growth",OM
+THMCS,"Competition & struggles",OM
+THMSI,"Social Issues & hardship",OM
+THMDS,"Discipline, sacrifice & belief",OM
+THMPE,"Philosophy, escape & self-reflection",OM
+THMUE,"Urbanity, environment & globalism",OM
+THMSC,"Science, progress & speculation",OM
+THMRL,"Relationships & life stages",OM
+THMHM,"Health, mind & mortality",OM
+THMCM,"Choices, morality & betrayal",OM
+SITST,"DJ set time",OM
+SITDS,"Dance setting",OM
+SITGU,"Going out",OM
+SITTW,"Time & weather",OM
+SITTS,"Transportation & travel",OM
+SITEL,"Everyday life",OM
+SITEV,"Events",OM
+FELLV,"Love-related feelings & situations",OM
+FEXCL,"Closeness",OM
+FEXTH,"Thoughts",OM
+FEXAC,"Actions",OM
+FEXCP,"Comparison",OM
+FEIMD,"Mood",OM
+FEITP,"Temper",OM
+FEIDR,"Drive",OM
+FEIPC,"Perception",OM
