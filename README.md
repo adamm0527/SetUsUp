@@ -14,7 +14,7 @@ default auth: (localdb)\mssqllocaldb and Windows Authentication. If differs for 
  
 1. Open `SetUsUpBE/SetUsUpBE.sln`.
 2. Right-click **SetUsUpBE.WebAPI** in Solution Explorer → **Set as Startup Project** (if it isn't already).
-3. Press **F5** (or click **Run**).
+3. Press **F5** (or click **Run**). Use the http profile.
 4. Swagger UI opens in your browser (default: `http://localhost:5072/swagger`).
 NuGet packages restore automatically on first build.
  
