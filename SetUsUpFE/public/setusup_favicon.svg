@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-labelledby="title desc">
+  <title id="title">SetUsUp Collaborative Cloud DJ Icon</title>
+  <desc id="desc">Two vinyl records connected by headphones with a cloud above, representing collaborative DJing in the cloud.</desc>
+
+  <!-- Background -->
+  <rect width="128" height="128" rx="24" fill="#0a1415"/>
+
+  <!-- Smooth headphone arc -->
+  <path d="M28 52 C28 28, 100 28, 100 52" 
+        fill="none" 
+        stroke="#66b9c2" 
+        stroke-width="6" 
+        stroke-linecap="round"/>
+
+  <!-- Cloud above headphones -->
+  <path d="M46 36
+           c2-8 10-12 18-10
+           c3-4 8-6 13-5
+           c6 1 11 6 12 12
+           c5 0 9 4 9 9
+           c0 5-4 9-9 9H50
+           c-5 0-9-4-9-9
+           c0-3 2-7 5-6Z"
+        fill="#d9d9d9"
+        stroke="#d9d9d9"
+        stroke-width="1"/>
+
+  <!-- Left vinyl / earcup -->
+  <circle cx="40" cy="76" r="26" fill="none" stroke="#66b9c2" stroke-width="6"/>
+  <circle cx="40" cy="76" r="8" fill="#66b9c2"/>
+  <circle cx="40" cy="76" r="2.5" fill="#0a1415"/>
+
+  <!-- Right vinyl / earcup -->
+  <circle cx="88" cy="76" r="26" fill="none" stroke="#d9d9d9" stroke-width="6"/>
+  <circle cx="88" cy="76" r="8" fill="#d9d9d9"/>
+  <circle cx="88" cy="76" r="2.5" fill="#0a1415"/>
+
+</svg>
